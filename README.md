@@ -2,7 +2,7 @@
 
 ## 🌟 Overview
 
-This is a **React.js** quiz application that allows users to take a quiz, answer questions, and see their final score. The app uses a set of predefined questions and provides an interactive experience for users to test their knowledge. The project is built using **Vite** for fast performance and modern frontend development.
+This is a **React.js** quiz application built with **JavaScript** and **Vite**. It allows users to take a quiz, answer questions, and see their final score. The app uses a set of predefined questions and provides an interactive experience for users to test their knowledge. The project leverages **Vite** for fast performance and modern frontend development.
 
 This project was developed with guidance from a YouTube tutorial: [React Quiz App Tutorial](https://www.youtube.com/watch?v=VMZ7lcSdVnY), which helped shape its structure and implementation.
 
@@ -18,6 +18,7 @@ This project was developed with guidance from a YouTube tutorial: [React Quiz Ap
 ## 🛠️ Technologies Used
 
 - **React.js** (Functional Components, Hooks)
+- **JavaScript** (Programming Language)
 - **Vite** (Fast Development & Hot Module Replacement)
 - **CSS Modules** (Component Styling)
 
